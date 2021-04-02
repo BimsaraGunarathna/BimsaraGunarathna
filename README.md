@@ -1,4 +1,4 @@
-### Hi there 👋
+##### Carpe Noctem!👋
 
 <!--
 **BimsaraGunarathna/BimsaraGunarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BimsaraGunarathna)](https://github.com/anuraghazra/github-readme-stats)
+![](https://img.shields.io/badge/<OS>-<Ubuntu>-informational?style=flat&logo=<ubuntu>&logoColor=white&color=2bbc8a)
