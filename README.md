@@ -1,6 +1,7 @@
 # Carpe Noctem!👋
 
-<img src="https://github.com/BimsaraGunarathna/BimsaraGunarathna/blob/master/g106.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+![Alt text](g106.jpg?raw=true "Title")
+
 
 ### Curious undergraduate developer with inspiration to work on exciting new ideas and projects with like minded professionals to create amazing new things.
 
