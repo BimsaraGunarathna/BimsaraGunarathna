@@ -1,6 +1,6 @@
 # Carpe Noctem!👋
 
-![Alt text](g106.jpg?raw=true "Title")
+![Alt text](/g106.jpg?raw=true "Title")
 
 
 ### Curious undergraduate developer with inspiration to work on exciting new ideas and projects with like minded professionals to create amazing new things.
