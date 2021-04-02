@@ -1,4 +1,7 @@
-##### Carpe Noctem!👋
+## Carpe Noctem!👋
+#### Curious undergraduate developer with inspiration to
+#### work on exciting new ideas and projects with like
+#### minded professionals to create amazing new things.
 
 <!--
 **BimsaraGunarathna/BimsaraGunarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
