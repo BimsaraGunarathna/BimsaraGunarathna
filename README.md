@@ -1,6 +1,6 @@
 # Carpe Noctem!👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/BimsaraGunarathna/BimsaraGunarathna/readme_header.png "Header")](https://some-url.dev/)
+<img src="https://github.com/BimsaraGunarathna/BimsaraGunarathna/blob/master/g106.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 ### Curious undergraduate developer with inspiration to work on exciting new ideas and projects with like minded professionals to create amazing new things.
 
