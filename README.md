@@ -95,6 +95,10 @@ I am curious full-stack developer with inspiration to work on exciting new ideas
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimsaraGunarathna&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
+</td></tr><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Autodidact97" align="left" style="width: 100%" />
+
 </td></tr></table>  
 
 <br/>  
