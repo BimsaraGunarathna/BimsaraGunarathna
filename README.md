@@ -1,5 +1,5 @@
-## Carpe Noctem!👋
-#### Curious undergraduate developer with inspiration to work on exciting new ideas and projects with like minded professionals to create amazing new things.
+# Carpe Noctem!👋
+### Curious undergraduate developer with inspiration to work on exciting new ideas and projects with like minded professionals to create amazing new things.
 
 <!--
 **BimsaraGunarathna/BimsaraGunarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BimsaraGunarathna)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BimsaraGunarathna)](https://github.com/anuraghazra/github-readme-stats)
