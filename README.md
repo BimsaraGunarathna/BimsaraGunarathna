@@ -1,7 +1,10 @@
-![gune-logo](https://raw.githubusercontent.com/BimsaraGunarathna/BimsaraGunarathna/main/g106.png)  
+<img src="https://raw.githubusercontent.com/BimsaraGunarathna/BimsaraGunarathna/main/g106.png" align="left" height="" width="100%" />  
   
 
-## Hey 👋, I'm Bimsara Gunarathna!  
+
+
+### 
+##  Hey 👋, I'm Bimsara Gunarathna!  
   
 
 <a href="https://github.com/https://github.com/BimsaraGunarathna" target="_blank">
