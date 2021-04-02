@@ -97,7 +97,7 @@ I am curious full-stack developer with inspiration to work on exciting new ideas
 
 </td></tr><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Autodidact97" align="left" style="width: 100%" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Autodidact97)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
