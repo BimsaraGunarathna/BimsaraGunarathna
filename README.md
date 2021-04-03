@@ -97,7 +97,7 @@ I am curious full-stack developer with inspiration to work on exciting new ideas
 
 </td></tr><tr><td valign="top" width="50%">
 
-<figure><embed src="https://wakatime.com/share/@Autodidact97/a42f2d56-811c-454b-9e3a-f1de11244d1a.svg"></embed></figure>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bimsara Gunarathna)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
