@@ -3,7 +3,10 @@
 
 ## Hey 👋, I'm Bimsara Gunarathna!  
   
-
+  
+<a href="https://noctem.tech/" target="_blank">
+<img src=https://raw.githubusercontent.com/BimsaraGunarathna/BimsaraGunarathna/main/Yaka.png?&style=for-the-badge&logo=github&logoColor=white alt=noctem style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/https://github.com/BimsaraGunarathna" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
