@@ -85,7 +85,7 @@ I am curious full-stack developer with inspiration to work on exciting new ideas
 
 <br/>  
 
-
+ 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
